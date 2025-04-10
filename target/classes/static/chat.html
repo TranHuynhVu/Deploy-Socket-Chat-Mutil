@@ -74,7 +74,7 @@
 </div>
 
 <script>
-    const socket = new WebSocket("ws://localhost:8080/chat");
+    const socket = new WebSocket("wss://" + window.location.host + "/chat");
 
     socket.onopen = function () {
         console.log("Đã kết nối tới WebSocket");
