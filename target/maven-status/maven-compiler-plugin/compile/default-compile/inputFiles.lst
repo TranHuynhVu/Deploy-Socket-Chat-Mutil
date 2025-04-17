@@ -2,3 +2,5 @@ D:\HK224\LapTrinhMang\chatMuti\chatMuti\src\main\java\com\springbootchat\chatMut
 D:\HK224\LapTrinhMang\chatMuti\chatMuti\src\main\java\com\springbootchat\chatMuti\config\WebSocketConfig.java
 D:\HK224\LapTrinhMang\chatMuti\chatMuti\src\main\java\com\springbootchat\chatMuti\controller\ChatController.java
 D:\HK224\LapTrinhMang\chatMuti\chatMuti\src\main\java\com\springbootchat\chatMuti\handler\ChatWebSocketHandler.java
+D:\HK224\LapTrinhMang\chatMuti\chatMuti\src\main\java\com\springbootchat\chatMuti\model\Message.java
+D:\HK224\LapTrinhMang\chatMuti\chatMuti\src\main\java\com\springbootchat\chatMuti\model\User.java

@@ -1,4 +1,6 @@
+com\springbootchat\chatMuti\handler\ChatWebSocketHandler.class
+com\springbootchat\chatMuti\model\Message.class
 com\springbootchat\chatMuti\ChatMutiApplication.class
 com\springbootchat\chatMuti\config\WebSocketConfig.class
 com\springbootchat\chatMuti\controller\ChatController.class
-com\springbootchat\chatMuti\handler\ChatWebSocketHandler.class
+com\springbootchat\chatMuti\model\User.class
